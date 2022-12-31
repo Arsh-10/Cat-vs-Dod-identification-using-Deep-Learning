@@ -1,0 +1,3 @@
+"AI" -> folder contains dataset of cats and dogs each of 250 instances hence balanaced
+"Graph" -> folder contains graph of k-fold runs
+"FinalSubmission.ipynb" -> the model we implemented Augnmentation & k-fold
